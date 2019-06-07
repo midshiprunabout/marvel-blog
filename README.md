@@ -1,2 +1,0 @@
-# marvel-blog
-RoR blog
